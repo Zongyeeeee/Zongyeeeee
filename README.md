@@ -21,7 +21,7 @@
 <!--  GLOWING BADGE ROW — visitor counter + socials                -->
 <!-- ============================================================= -->
 
-<img src="https://komarev.com/ghpvc/?username=Zongyeeeee&label=Profile+Views&color=bd93f9&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Zongyeeeee&label=Profile+Views&color=bd93f9&style=for-the-badge&base=2510" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/Zongyeeeee?tab=followers"><img src="https://img.shields.io/github/followers/Zongyeeeee?label=Follow&style=for-the-badge&color=ff79c6&labelColor=282a36&logo=github&logoColor=f8f8f2" alt="Follow Zongyeeeee on GitHub" /></a>
 &nbsp;
