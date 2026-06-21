@@ -4,9 +4,9 @@
 <!-- ============================================================= -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:282a36,50:6272a4,100:bd93f9&text=Zongyeeeee&fontColor=f8f8f2&fontSize=70&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20ships%20AI%20products%20%26%20automation&descAlignY=58&descSize=18&descColor=8be9fd&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:bd93f9,50:6272a4,100:8be9fd&text=Zongyeeeee&fontColor=282a36&fontSize=70&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20ships%20AI%20products%20%26%20automation&descAlignY=58&descSize=18&descColor=44475a&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:282a36,50:6272a4,100:bd93f9&text=Zongyeeeee&fontColor=f8f8f2&fontSize=70&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20ships%20AI%20products%20%26%20automation&descAlignY=58&descSize=18&descColor=8be9fd&animation=fadeIn" alt="Zongyeeeee — AI Engineer, ships AI products and automation" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:282a36,50:6272a4,100:bd93f9&text=Zongyeeeee&fontColor=f8f8f2&fontSize=44&fontAlignY=42&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:bd93f9,50:6272a4,100:8be9fd&text=Zongyeeeee&fontColor=282a36&fontSize=44&fontAlignY=42&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:282a36,50:6272a4,100:bd93f9&text=Zongyeeeee&fontColor=f8f8f2&fontSize=44&fontAlignY=42&animation=fadeIn" alt="Zongyeeeee — AI Engineer, ships AI products and automation" width="100%" />
 </picture>
 
 <!-- ============================================================= -->
