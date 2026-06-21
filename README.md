@@ -62,24 +62,26 @@ Scripts I authored and merged into the official **[BetterGI](https://github.com/
 ## GitHub Stats
 
 <!--
-  RELIABILITY TODO: these two cards use the shared public github-readme-stats
-  Vercel instance, which can hit GitHub rate limits and show a broken image.
-  Durable fix: fork anuraghazra/github-readme-stats, deploy to your own free
-  Vercel, add a read-only PAT as PAT_1 and WHITELIST=Zongyeeeee, then change
-  "github-readme-stats.vercel.app" below to your own instance host.
+  These two cards are served by a SELF-HOSTED github-readme-stats instance
+  (host: github-readme-stats-one-sepia-52.vercel.app), so count_private and
+  include_all_commits include private-repo data.
+  Maintenance: deploys from the Zongyeeeee/github-readme-stats fork on Vercel
+  with env vars PAT_1 (read-only PAT), WHITELIST=Zongyeeeee, CACHE_SECONDS=86400.
+  If the cards ever break: confirm the Vercel deploy is Ready and Deployment
+  Protection (Vercel Authentication) is Disabled.
 -->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&custom_title=Zongyeeeee%27s%20GitHub%20Stats&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=8be9fd&include_all_commits=true&count_private=true&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&custom_title=Zongyeeeee%27s%20GitHub%20Stats&hide_border=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=86400" />
-    <img height="165" alt="Zongyeeeee's GitHub stats: stars, commits, pull requests and issues" src="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&custom_title=Zongyeeeee%27s%20GitHub%20Stats&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=8be9fd&include_all_commits=true&count_private=true&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-sepia-52.vercel.app/api?username=Zongyeeeee&show_icons=true&custom_title=Zongyeeeee%27s%20GitHub%20Stats&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=8be9fd&include_all_commits=true&count_private=true&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-sepia-52.vercel.app/api?username=Zongyeeeee&show_icons=true&custom_title=Zongyeeeee%27s%20GitHub%20Stats&hide_border=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=86400" />
+    <img height="165" alt="Zongyeeeee's GitHub stats: stars, commits, pull requests and issues" src="https://github-readme-stats-one-sepia-52.vercel.app/api?username=Zongyeeeee&show_icons=true&custom_title=Zongyeeeee%27s%20GitHub%20Stats&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=8be9fd&include_all_commits=true&count_private=true&cache_seconds=86400" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zongyeeeee&layout=compact&langs_count=6&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zongyeeeee&layout=compact&langs_count=6&hide_border=true&theme=default&cache_seconds=86400" />
-    <img height="165" alt="Zongyeeeee's most-used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zongyeeeee&layout=compact&langs_count=6&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-sepia-52.vercel.app/api/top-langs/?username=Zongyeeeee&layout=compact&langs_count=6&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-sepia-52.vercel.app/api/top-langs/?username=Zongyeeeee&layout=compact&langs_count=6&hide_border=true&theme=default&cache_seconds=86400" />
+    <img height="165" alt="Zongyeeeee's most-used programming languages" src="https://github-readme-stats-one-sepia-52.vercel.app/api/top-langs/?username=Zongyeeeee&layout=compact&langs_count=6&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&cache_seconds=86400" />
   </picture>
 </p>
 
