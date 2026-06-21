@@ -1,74 +1,110 @@
-<!-- Profile README — Dracula theme · clean English layout -->
+<h1 align="center">Hi, I'm Zongyeeeee 👋</h1>
 
-<div align="center">
+<p align="center">
+  AI / LLM Engineer &nbsp;&middot;&nbsp; I ship production AI products &amp; game-automation tooling
+</p>
 
-# Hi, I'm Zongye 👋
-
-#### Automation enthusiast · BetterGI script author · JS / C#
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BD93F9&center=true&vCenter=true&width=480&height=40&lines=Building+tools+that+play+the+game+for+me;Automation+%E2%80%A2+Scripting+%E2%80%A2+Tooling;Z-Turn+or+die" alt="typing"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Zongyeeeee&style=flat-square&color=bd93f9&label=Profile+views" alt="views"/>
-<img src="https://img.shields.io/github/followers/Zongyeeeee?style=flat-square&color=ff79c6&label=Followers&logo=github&logoColor=white" alt="followers"/>
-
-</div>
-
-<br/>
-
-## 🧑‍💻 About
-
-- 🎮 I write automation **JavaScript** scripts for [BetterGI](https://github.com/babalae/bettergi-scripts-list) — auto-farming, auto-combat, data tracking
-- 🛠️ Mostly coding in **JavaScript** and **C#**
-- 🤖 I enjoy building tools that play the game for me
-- 🌱 Always tinkering — *Z-Turn or die*
-
-<br/>
-
-## 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-282A36?style=flat-square&logo=javascript&logoColor=F1FA8C"/>
-  <img src="https://img.shields.io/badge/C%23-282A36?style=flat-square&logo=csharp&logoColor=8BE9FD"/>
-  <img src="https://img.shields.io/badge/TypeScript-282A36?style=flat-square&logo=typescript&logoColor=8BE9FD"/>
-  <img src="https://img.shields.io/badge/Node.js-282A36?style=flat-square&logo=node.js&logoColor=50FA7B"/>
-  <img src="https://img.shields.io/badge/Python-282A36?style=flat-square&logo=python&logoColor=FFB86C"/>
-  <img src="https://img.shields.io/badge/Git-282A36?style=flat-square&logo=git&logoColor=FF79C6"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-282A36?style=flat-square&logo=githubactions&logoColor=BD93F9"/>
+<p align="center">
+  <img
+    alt="Animated tagline: shipping production AI products and building tools that play the game for me"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=BD93F9&center=true&vCenter=true&width=560&lines=Shipping+production+AI+products;Building+tools+that+play+the+game+for+me"
+  />
 </p>
 
 <br/>
 
-## 📊 GitHub Stats
+## About
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zongyeeeee&layout=compact&langs_count=8&hide_border=true&theme=dracula&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" alt="top langs"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Zongyeeeee&hide_border=true&theme=dracula&background=282A36&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9&sideLabels=F8F8F2&dates=6272A4&currStreakNum=F8F8F2&sideNums=F8F8F2" alt="streak"/>
-
-</div>
+- I build and ship **production AI products** end to end — computer-vision and **RAG / LLM** pipelines, deterministic scoring, and billing.
+- I also write automation **JavaScript** scripts for **BetterGI**; two are merged into the official community script list.
+- I care about systems that produce **honest, readable numbers** — not just "it ran".
 
 <br/>
 
-## 🐍 Contribution Snake
+## Featured Projects
 
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Zongyeeeee/Zongyeeeee/output/github-snake-dark.svg" alt="snake"/>
-</div>
+Live AI products I designed, built, and deployed solo.
+
+| Project | What it is |
+| --- | --- |
+| **[AuraGrade](https://auragrade.com)** | AI trading-card grading platform. A vision LLM only flags defects while deterministic code assigns the grade — no hallucinated scores — predicting professional grades within ±1 on most cards. <br/>`Next.js` · `FastAPI` · `OpenCV` · `Claude Vision` · `Supabase` · `Stripe` |
+| **[StayLive](https://stay-live.com)** | AI travel-advisory platform with a real-time **RAG** chat assistant, an automated data-ingestion pipeline, and half-life-decay hotel safety-risk scoring. <br/>`Next.js` · `DeepSeek / OpenAI` · `Tavily` · `Supabase` |
 
 <br/>
 
-## 📫 Connect
+## Featured Scripts
 
-<div align="center">
+Scripts I authored and merged into the official **[BetterGI](https://github.com/babalae/bettergi-scripts-list)** script list.
 
-<a href="https://github.com/Zongyeeeee"><img src="https://img.shields.io/badge/GitHub-282A36?style=flat-square&logo=github&logoColor=BD93F9"/></a>
-<a href="mailto:lyuzongye@gmail.com"><img src="https://img.shields.io/badge/Email-282A36?style=flat-square&logo=gmail&logoColor=FF79C6"/></a>
-<a href="https://github.com/babalae/bettergi-scripts-list"><img src="https://img.shields.io/badge/BetterGI%20Scripts-282A36?style=flat-square&logo=gamejolt&logoColor=50FA7B"/></a>
+| Script | What it does |
+| --- | --- |
+| **[DailyHarvestStats](https://github.com/babalae/bettergi-scripts-list/tree/main/repo/js/DailyHarvestStats)** | Measures the real Mora and artifact-fodder XP gained during a harvesting run. Run it before and after the collection task so it counts only the collection window and excludes anything spent manually. Tracks cross-day totals and daily averages, with multi-account support. ([PR #3325](https://github.com/babalae/bettergi-scripts-list/pull/3325)) |
+| **[KeepAwakeCountdown](https://github.com/babalae/bettergi-scripts-list/tree/main/repo/js/KeepAwakeCountdown)** | Keeps the PC awake between scheduled BetterGI tasks by periodically nudging the camera, then exits so the scheduler runs the next task. Supports a relative countdown or waiting until a specific clock time. ([PR #3315](https://github.com/babalae/bettergi-scripts-list/pull/3315)) |
 
-</div>
+<br/>
+
+## Tech Stack
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-282a36?style=for-the-badge&logo=python&logoColor=ffb86c" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-282a36?style=for-the-badge&logo=typescript&logoColor=8be9fd" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=f1fa8c" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-282a36?style=for-the-badge&logo=csharp&logoColor=bd93f9" />
+  <br/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-282a36?style=for-the-badge&logo=nextdotjs&logoColor=f8f8f2" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-282a36?style=for-the-badge&logo=fastapi&logoColor=50fa7b" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-282a36?style=for-the-badge&logo=node.js&logoColor=50fa7b" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-282a36?style=for-the-badge&logo=postgresql&logoColor=8be9fd" />
+</p>
+
+<br/>
+
+## GitHub Stats
+
+<!--
+  RELIABILITY TODO: these two cards use the shared public github-readme-stats
+  Vercel instance, which can hit GitHub rate limits and show a broken image.
+  Durable fix: fork anuraghazra/github-readme-stats, deploy to your own free
+  Vercel, add a read-only PAT as PAT_1 and WHITELIST=Zongyeeeee, then change
+  "github-readme-stats.vercel.app" below to your own instance host.
+-->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=8be9fd&include_all_commits=true&count_private=true&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=86400" />
+    <img height="165" alt="Zongyeeeee's GitHub stats: stars, commits, pull requests and issues" src="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=8be9fd&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zongyeeeee&layout=compact&langs_count=6&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zongyeeeee&layout=compact&langs_count=6&hide_border=true&theme=default&cache_seconds=86400" />
+    <img height="165" alt="Zongyeeeee's most-used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zongyeeeee&layout=compact&langs_count=6&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&cache_seconds=86400" />
+  </picture>
+</p>
+
+<br/>
+
+<hr/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zongyeeeee/Zongyeeeee/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zongyeeeee/Zongyeeeee/output/github-snake.svg" />
+    <img width="95%" alt="Snake eating Zongyeeeee's GitHub contribution graph" src="https://raw.githubusercontent.com/Zongyeeeee/Zongyeeeee/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<br/>
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/Zongyeeeee">
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=f8f8f2" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/babalae/bettergi-scripts-list">
+    <img alt="BetterGI script list" src="https://img.shields.io/badge/BetterGI%20Scripts-282a36?style=for-the-badge&logo=github&logoColor=50fa7b" />
+  </a>
+</p>
