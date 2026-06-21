@@ -1,0 +1,35 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  # 每天刷新一次 3D 贡献图
+  schedule:
+    - cron: "0 18 * * *"
+  # 允许在 Actions 页面手动触发（首次生成用这个）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          # 有 GH_PAT 密钥就用它（含私有贡献，密集版）；
+          # 没有则自动回退到内置 GITHUB_TOKEN（仅公开贡献）。
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 生成的 SVG 写在 profile-3d-contrib/ 目录，提交回 main 分支
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generate 3d contrib"; then
+            git push
+          fi
