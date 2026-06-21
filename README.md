@@ -71,9 +71,9 @@ Scripts I authored and merged into the official **[BetterGI](https://github.com/
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=8be9fd&include_all_commits=true&count_private=true&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=86400" />
-    <img height="165" alt="Zongyeeeee's GitHub stats: stars, commits, pull requests and issues" src="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=8be9fd&include_all_commits=true&count_private=true&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&custom_title=Zongyeeeee%27s%20GitHub%20Stats&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=8be9fd&include_all_commits=true&count_private=true&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&custom_title=Zongyeeeee%27s%20GitHub%20Stats&hide_border=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=86400" />
+    <img height="165" alt="Zongyeeeee's GitHub stats: stars, commits, pull requests and issues" src="https://github-readme-stats.vercel.app/api?username=Zongyeeeee&show_icons=true&custom_title=Zongyeeeee%27s%20GitHub%20Stats&hide_border=true&theme=dracula&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2&icon_color=8be9fd&include_all_commits=true&count_private=true&cache_seconds=86400" />
   </picture>
   &nbsp;
   <picture>
@@ -95,16 +95,3 @@ Scripts I authored and merged into the official **[BetterGI](https://github.com/
   </picture>
 </p>
 
-<br/>
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/Zongyeeeee">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github&logoColor=f8f8f2" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/babalae/bettergi-scripts-list">
-    <img alt="BetterGI script list" src="https://img.shields.io/badge/BetterGI%20Scripts-282a36?style=for-the-badge&logo=github&logoColor=50fa7b" />
-  </a>
-</p>
